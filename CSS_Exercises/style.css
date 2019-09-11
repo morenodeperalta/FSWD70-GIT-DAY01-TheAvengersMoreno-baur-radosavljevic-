@@ -1,4 +1,4 @@
-div {
+/*div {
 	border: 5px solid black;
 }
 
@@ -14,9 +14,12 @@ h1 {
 	display: none;
 }
 
-/*#sixth {
+#sixth {
 	display: none;
 }
 */
 
+#first p {
+	font-size: 200%;
+}
 
