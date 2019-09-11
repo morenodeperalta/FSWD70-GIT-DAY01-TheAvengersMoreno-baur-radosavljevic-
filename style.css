@@ -1,0 +1,22 @@
+div {
+	border: 5px solid black;
+}
+
+#third p {
+	display: none;
+}
+
+h1 {
+	display: none;
+}
+
+#fifth {
+	display: none;
+}
+
+/*#sixth {
+	display: none;
+}
+*/
+
+
